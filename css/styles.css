@@ -1,12 +1,10 @@
-h2.intro {
-  font-style: italic;
-  font-size: 30px;
-}
 
-p.intro {
+
+.intro {
   width: 50%;
   text-align: center;
   font-family: sans-serif;
+  color: green;
 }
 
 img.intro {
